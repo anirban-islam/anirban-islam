@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Anirban Islam Emon, a Full-Stack Web Developer 👋🏼:
+# Hello World!, I'm Anirban Islam, a Full-Stack Web Developer 👋🏼:
 🚀 Anirban Islam Emon | Full-Stack Web Developer | Next.js Specialist<br>Hi! I'm Anirban Islam Emon, a CSE student and passionate full-stack developer specializing in Next.js, MongoDB, and modern web technologies. I love building scalable, high-performance web applications and constantly exploring new technologies.<br><br>🔹 Tech Stack: Next.js, React, Node.js, MongoDB, Express, Redux, TypeScript<br>🔹 Interests: RESTful & GraphQL APIs, Performance Optimization, Serverless Architectures<br>🔹 Currently Working On: A Next.js Todo App with full CRUD & state management<br>🔹 Open to: Collaboration, Open-Source Contributions, Learning Opportunities
 
 ## 🌐 Socials:
